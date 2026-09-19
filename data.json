@@ -1,0 +1,251 @@
+{
+  "store": {
+    "name": "INDS.DOUGH",
+    "subtitle": "Premium Donuts",
+    "tagline": "DONAT PREMIUM, NO BANTET, NO NGARET, NO SERET, NO KOPONG.",
+    "phone": "0821-3280-9509",
+    "whatsapp_raw": "6282132809509",
+    "address": "Jl. Basuki Rahmat (depan POM bensin Pasar Sabtuan)",
+    "instagram": "@inds.dough",
+    "instagram_url": "https://instagram.com/inds.dough",
+    "logo_url": "https://lh3.googleusercontent.com/d/18BoQaOrAJZKOPdCPzhF-qKcKfrZO7W3i"
+  },
+  "categories": [
+    {
+      "id": "all",
+      "name": "Semua Menu"
+    },
+    {
+      "id": "paket",
+      "name": "📦 Paket Mini"
+    },
+    {
+      "id": "manis",
+      "name": "🍩 Donat Manis"
+    },
+    {
+      "id": "gurih",
+      "name": "🧀 Donat Gurih"
+    }
+  ],
+  "products": [
+    {
+      "id": "p1",
+      "name": "Donat Mini Isi 8",
+      "price": 38000,
+      "category": "paket",
+      "badge": "Terlaris",
+      "color": "#e07a5f",
+      "image": "https://lh3.googleusercontent.com/d/1NgYik40YTjtJspUDejjQbd2egptend0P",
+      "description": "Bebas pilih varian rasa topping favoritmu."
+    },
+    {
+      "id": "p2",
+      "name": "Donat Mini Isi 12",
+      "price": 55000,
+      "category": "paket",
+      "badge": "Hemat",
+      "color": "#d4a373",
+      "image": "https://lh3.googleusercontent.com/d/19ksud-B46y0E4UF_0pSYNMsGMHrIAXCi",
+      "description": "Isi lebih banyak, pas untuk rame-rame."
+    },
+    {
+      "id": "p3",
+      "name": "Strawberry",
+      "price": 7500,
+      "category": "manis",
+      "badge": null,
+      "color": "#e63946",
+      "image": "https://lh3.googleusercontent.com/d/1MLjF6OiI9OV3X2l2KR4wEMIr1XBfDnxu",
+      "description": "Selai strawberry manis segar berlimpah."
+    },
+    {
+      "id": "p4",
+      "name": "Susu Vanilla",
+      "price": 8000,
+      "category": "manis",
+      "badge": null,
+      "color": "#f1faee",
+      "image": "https://lh3.googleusercontent.com/d/1uE_HE1Ol0I2BOhaAHKTN-g8AzQpDXgBi",
+      "description": "Glaze vanilla lembut bertabur susu manis."
+    },
+    {
+      "id": "p5",
+      "name": "Caramel Cheese",
+      "price": 8000,
+      "category": "manis",
+      "badge": "Favorit",
+      "color": "#f4a261",
+      "image": "https://lh3.googleusercontent.com/d/1gEFx3HlF_be4FkmEEpejvcm2ryDIuCpZ",
+      "description": "Perpaduan karamel legit dan gurih keju."
+    },
+    {
+      "id": "p6",
+      "name": "Crunchy",
+      "price": 8000,
+      "category": "manis",
+      "badge": null,
+      "color": "#6b705c",
+      "image": "https://lh3.googleusercontent.com/d/1tC8AP_xVxcZv-MaPy9sxT3es5ccIZ68e",
+      "description": "Topping coklat dengan sensasi renyah krispi."
+    },
+    {
+      "id": "p7",
+      "name": "Meses",
+      "price": 8000,
+      "category": "manis",
+      "badge": "Klasik",
+      "color": "#3d405b",
+      "image": "https://lh3.googleusercontent.com/d/1yVUBO-S44g6LfRNIiWqAN06jKcIS48QD",
+      "description": "Coklat meses melimpah rasa klasik juara."
+    },
+    {
+      "id": "p8",
+      "name": "Cappucino Caviar",
+      "price": 8000,
+      "category": "manis",
+      "badge": null,
+      "color": "#a5a58d",
+      "image": "https://lh3.googleusercontent.com/d/1Ny4FWjpW0wTfyB2jHAfJflvvNTSA226W",
+      "description": "Aroma kopi cappucino dipadu butiran caviar coklat."
+    },
+    {
+      "id": "p9",
+      "name": "Coklat Kacang",
+      "price": 8500,
+      "category": "manis",
+      "badge": null,
+      "color": "#b08968",
+      "image": "https://lh3.googleusercontent.com/d/1UDM1WQ6wW60E-eYV41dKOtJdAHSVcCve",
+      "description": "Coklat tebal bertabur cincangan kacang sangrai."
+    },
+    {
+      "id": "p10",
+      "name": "Matcha",
+      "price": 8500,
+      "category": "manis",
+      "badge": "Favorit",
+      "color": "#52b788",
+      "image": "https://lh3.googleusercontent.com/d/1ehSUe3DkRIY6SfnHF3JNhfVA1NVIInIF",
+      "description": "Glaze matcha khas Jepang dipadu stik biskuit renyah."
+    },
+    {
+      "id": "p11",
+      "name": "Tiramisu Regal",
+      "price": 8500,
+      "category": "manis",
+      "badge": "Best Seller",
+      "color": "#ddb892",
+      "image": "https://lh3.googleusercontent.com/d/1MmpTlPpjozmtf5P6PdPX-uLDWfwtcPKw",
+      "description": "Krim tiramisu kaya rasa dengan biskuit Regal renyah."
+    },
+    {
+      "id": "p12",
+      "name": "Double Cheese",
+      "price": 8500,
+      "category": "manis",
+      "badge": null,
+      "color": "#ffe5ec",
+      "image": "https://lh3.googleusercontent.com/d/1h2zKras7hfj5WsiDNskT3wFR-aelTi55",
+      "description": "Keju parut melimpah di atas krim keju spesial."
+    },
+    {
+      "id": "p13",
+      "name": "White Almond",
+      "price": 9000,
+      "category": "manis",
+      "badge": null,
+      "color": "#fefae0",
+      "image": "https://lh3.googleusercontent.com/d/1L1Rjihy9dBBIKqyfDljvTi9f0eYIFZOb",
+      "description": "Coklat putih dengan irisan almond panggang krispi."
+    },
+    {
+      "id": "p14",
+      "name": "Abon",
+      "price": 9000,
+      "category": "gurih",
+      "badge": "Gurih Spesial",
+      "color": "#cb997e",
+      "image": "https://lh3.googleusercontent.com/d/1LkNRzFvgLtWcoWESq8_SC4dXzH_9tl8L",
+      "description": "Abon sapi gurih melimpah di atas olesan mayo lembut."
+    },
+    {
+      "id": "p15",
+      "name": "Pepperoni Mayo Cheese",
+      "price": 9500,
+      "category": "gurih",
+      "badge": "Baru",
+      "color": "#e07a5f",
+      "image": "https://lh3.googleusercontent.com/d/1Ny4FWjpW0wTfyB2jHAfJflvvNTSA226W",
+      "description": "Sensasi pizza donat dengan pepperoni, keju & mayo."
+    }
+  ],
+  "guide_steps": [
+    {
+      "step": 1,
+      "title": "Pilih Donat Favoritmu",
+      "description": "Tambahkan menu donat yang ingin kamu pesan ke dalam keranjang.",
+      "image": "https://lh3.googleusercontent.com/d/13xr6J0LOqtCkAP3NdXywTKijqgJfQyFz"
+    },
+    {
+      "step": 2,
+      "title": "Buka Keranjang Belanja",
+      "description": "Klik tombol 'Lihat Pesanan' untuk memeriksa daftar belanjaanmu.",
+      "image": "https://lh3.googleusercontent.com/d/1lNKMaLSz1SK91tzFexM2p7HvQnvf7a4F"
+    },
+    {
+      "step": 3,
+      "title": "Cek & Beri Catatan Varian",
+      "description": "Kamu bisa cek kembali pesanan dan memberi catatan khusus pada tiap produk.",
+      "image": "https://lh3.googleusercontent.com/d/13IoC3xmzvBPldNdW5NYSBppuZGzaeeBq"
+    },
+    {
+      "step": 4,
+      "title": "Isi Nama Pemesan",
+      "description": "Tulis nama kamu agar kami tahu siapa penerima pesanan ini.",
+      "image": "https://lh3.googleusercontent.com/d/1Z8DPfJX_6iiFWL0GIfcMbWDyOVH6dlYS"
+    },
+    {
+      "step": 5,
+      "title": "Pilih Metode Pemesanan",
+      "description": "Pilih metode pemesanan (bisa Ambil di Toko atau Delivery).",
+      "image": "https://lh3.googleusercontent.com/d/1J6d_EInUBcfBUY80zFsSS4H4myneNIwt"
+    },
+    {
+      "step": 6,
+      "title": "Isi Alamat Pengiriman",
+      "description": "Kalau kamu memilih Delivery, masukkan alamat kamu (biaya ongkir menyesuaikan jarak).",
+      "image": "https://lh3.googleusercontent.com/d/14XgAYyXKBe6tPZtZ38jsOa0xO5EC5fHq"
+    },
+    {
+      "step": 7,
+      "title": "Tambahkan Catatan Umum",
+      "description": "Kamu juga bisa menambahkan catatan khusus untuk keseluruhan pesananmu.",
+      "image": "https://lh3.googleusercontent.com/d/1knQvw4fBP9D32XEwn4nCwbQcnCoNiEUX"
+    },
+    {
+      "step": 8,
+      "title": "Pratinjau Invoice",
+      "description": "Klik 'Pratinjau Invoice' untuk memeriksa kembali rincian dan total harga.",
+      "image": "https://lh3.googleusercontent.com/d/1Io3faYbK-CYndj-688-tK63MFj0lHpAL"
+    },
+    {
+      "step": 9,
+      "title": "Kirim via WhatsApp",
+      "description": "Klik 'Pesan Sekarang via WhatsApp' untuk langsung terhubung ke admin kami.",
+      "image": "https://lh3.googleusercontent.com/d/1_UOSiC_z-5wjAI-WW9f_NUCcmrdiUSMa"
+    },
+    {
+      "step": 10,
+      "title": "Tekan Tombol Kirim",
+      "description": "Klik icon kirim pesan pada aplikasi WhatsApp kamu.",
+      "image": "https://lh3.googleusercontent.com/d/1Gz2EmaVomnUnZqqmOkB8JbWD8AewNSHe"
+    },
+    {
+      "step": 11,
+      "title": "Konfirmasi Pesanan",
+      "description": "Tunggu karyawan kami mengkonfirmasi pesanan dan memproses donat lezatmu!",
+      "image": "https://lh3.googleusercontent.com/d/18CzNx6XBCw1d6C7OAtuwtdKFqcufLy0A"
+    }
+  ]
+}
